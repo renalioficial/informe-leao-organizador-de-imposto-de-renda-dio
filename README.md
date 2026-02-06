@@ -6,7 +6,7 @@
 
 O **Informe Leão** é um projeto de interface e estruturação de dados criado para resolver a desorganização de documentos na hora de declarar o Imposto de Renda. O foco deste desenvolvimento foi criar uma experiência de usuário (UX) fluida dentro do Excel, eliminando a cara de "planilha comum" e transformando-a em um sistema navegável.
 
-*Projeto desenvolvido como parte do desafio prático do ** Bootcamp Santander do DIO**.*
+*Projeto desenvolvido como parte do desafio prático do **Bootcamp Santander do DIO**.*
 
 ## 🚀 Destaques do Desenvolvimento
 
@@ -50,4 +50,5 @@ Confira abaixo as telas desenvolvidas e a lógica aplicada:
 ---
 
 *Este repositório documenta a estrutura visual e lógica do projeto.*
+
 
