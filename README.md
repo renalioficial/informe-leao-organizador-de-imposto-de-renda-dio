@@ -23,22 +23,22 @@ Confira abaixo as telas desenvolvidas e a lógica aplicada:
 <div align="center">
   <h3>1. Tela Inicial: Cadastro e Navegação</h3>
   <p>Formulário limpo para dados cadastrais com menu lateral funcional.</p>
-  <img src="images/1 print organizador de declaracao de imposto de renda renali dio.png" width="600px" alt="Tela de Cadastro de Titular">
+  <img src="images/1 print organizador de declaracao de imposto de renda renali dio.png" width="2200px" alt="Tela de Cadastro de Titular">
   <br><br>
   
   <h3>2. Gestão de Informes Bancários</h3>
   <p>Tabela dinâmica para inserção de múltiplos bancos com cálculo automático.</p>
-  <img src="images/2 print organizador de declaracao de imposto de renda.png" width="600px" alt="Tela de Informes Bancários">
+  <img src="images/2 print organizador de declaracao de imposto de renda.png" width="2200px" alt="Tela de Informes Bancários">
   <br><br>
 
   <h3>3. Controle de Notas e Entradas</h3>
   <p>Área dedicada ao registro mensal de holerites e notas fiscais.</p>
-  <img src="images/3 print organizador de declaracao de imposto de renda.png" width="600px" alt="Tela de Controle de Notas">
+  <img src="images/3 print organizador de declaracao de imposto de renda.png" width="2200px" alt="Tela de Controle de Notas">
   <br><br>
 
   <h3>4. Sistema de Tratamento de Erros</h3>
   <p>Exemplo da validação de dados em ação: garantindo que apenas bancos válidos sejam inseridos.</p>
-  <img src="images/4 print ERRO organizador de declaracao de imposto de renda.png" width="600px" alt="Exemplo de Validação de Dados">
+  <img src="images/4 print ERRO organizador de declaracao de imposto de renda.png" width="2200px" alt="Exemplo de Validação de Dados">
 </div>
 
 ## 🛠️ Tecnologias Aplicadas
@@ -50,3 +50,4 @@ Confira abaixo as telas desenvolvidas e a lógica aplicada:
 ---
 
 *Este repositório documenta a estrutura visual e lógica do projeto.*
+
