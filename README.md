@@ -43,12 +43,13 @@ Confira abaixo as telas desenvolvidas e a lógica aplicada:
 
 ## 🛠️ Tecnologias Aplicadas
 
-* **Microsoft Excel:** Tabelas Dinâmicas, Validação de Dados, Formatação Condicional e Fórmulas Lógicas (SE, PROCV).
+* **Microsoft Excel:** Tabelas Dinâmicas, Validação de Dados, Formatação Condicional e Fórmulas Lógicas.
 * **UX/UI Design:** Prototipação de interfaces amigáveis para usuários não-técnicos.
 
 
 ---
 
 *Este repositório documenta a estrutura visual e lógica do projeto.*
+
 
 
