@@ -27,7 +27,7 @@ Confira abaixo as telas desenvolvidas e a lógica aplicada:
   <br><br>
   
   <h3>2. Gestão de Informes Bancários</h3>
-  <p>Tabela dinâmica para inserção de múltiplos bancos com cálculo automático.</p>
+  <p>Tabela para inserção de múltiplos bancos com cálculo automático.</p>
   <img src="images/2 print organizador de declaracao de imposto de renda.png" width="2200px" alt="Tela de Informes Bancários">
   <br><br>
 
@@ -50,6 +50,7 @@ Confira abaixo as telas desenvolvidas e a lógica aplicada:
 ---
 
 *Este repositório documenta a estrutura visual e lógica do projeto.*
+
 
 
 
